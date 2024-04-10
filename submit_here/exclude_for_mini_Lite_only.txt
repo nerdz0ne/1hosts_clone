@@ -1,3 +1,16 @@
+# https://github.com/badmojr/1Hosts/issues/1727
+# https://github.com/badmojr/1Hosts/issues/1730
+# https://github.com/badmojr/1Hosts/issues/1729
+# https://github.com/badmojr/1Hosts/issues/1728
+# https://github.com/badmojr/1Hosts/issues/1723
+# https://github.com/badmojr/1Hosts/issues/1722
+# https://github.com/badmojr/1Hosts/issues/1685
+# https://github.com/badmojr/1Hosts/issues/1682
+# https://github.com/badmojr/1Hosts/issues/1680
+# https://github.com/badmojr/1Hosts/issues/1661
+# https://github.com/badmojr/1Hosts/issues/1659
+html-load.com
+css-load.com
 html-load.com
 css-load.com
 
